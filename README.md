@@ -1,1 +1,3 @@
-just a data science enthusiast
+just a data science enthusiast. enjoy
+contact:
+portfolium: in progress
