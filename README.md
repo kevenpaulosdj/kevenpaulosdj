@@ -11,6 +11,6 @@ Welcome to my profile! My name is Keven Paulo, and I'm a Artificial Intelligence
 
 
 
-![image](https://github.com/user-attachments/assets/7ea8894f-d143-49b2-b85a-6c9c4db5e370)
+![image](https://github.com/user-attachments/assets/348bb424-29a3-40a2-bf79-32fc6289d934)
 
 
