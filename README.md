@@ -5,3 +5,4 @@
 - Languages: Portuguese, English.
 
 Welcome to my profile! My name is Keven Paulo, and I'm a Artificial Intelligence/Machine Learning enthusiast. Enjoy!
+![image](https://github.com/user-attachments/assets/16fad8d9-8169-4c53-ad70-3574bee10313)
