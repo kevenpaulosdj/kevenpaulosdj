@@ -1,4 +1,5 @@
-- salvador, brazil
-- contact: kprojetos9@gmail.com
-
-just a data science enthusiast. enjoy :)
+- Salvador, Brazil;
+- Contact: kprojetos9@gmail.com;
+- Hard-skills: SQL, Python (Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn), AWS, HTML/CSS, Databricks, Pyspark, Microsoft Office, PowerBI);
+- Soft-skills: Teamwork, problem-solving, critical thinking, adaptability, communication;
+- Languages: Portuguese, English;
