@@ -14,7 +14,7 @@ Sejam bem-vindos ao meu perfil! Meu nome é Keven Paulo, e eu sou um entusiasta 
 - Soft-skills: Teamwork, problem solving, analytical thinking, adaptability, comunication;
 - Línguas: Portuguese (fluent), English (intermediate)
 
-Welcome to my profile! My name is Keven Paulo, And I'm an enthusiast in the field of programming in general, but Data Science is my main passion. I hope my projects have caught your interest!
+Welcome to my profile! My name is Keven Paulo, and I'm an enthusiast in the field of programming in general, but Data Science is my main passion. I hope my projects have caught your interest!
 
 #
 
